@@ -1,0 +1,25 @@
+{
+    "state": 2,
+    "title": "PHU NHÂN CỰU TỔNG THỐNG HÀN QUỐC NHẬP KHO VÌ THAM NHŨNG | BAO GIỜ THÌ ĐẾN VỢ ZELENSKY?",
+    "thumbnail": "https://i.ytimg.com/vi/BS72fMpsGjk/default.jpg",
+    "duration": "00:13:13",
+    "metadata": {},
+    "subtitles": [
+        {
+            "name": "Vietnamese (auto-generated)",
+            "code": "vi_auto",
+            "url": "eyJjdCI6ImJCQ3Z0dS9HVWxXckYrWlVBZW9kcVFBYjQ2L2lYd2YwS1ZoeXFWcDBCclV3Q2MrNW83VGg0ZzhmTU1LNTVvZmZCWVpuVXBMNllrSm40Vmd5Y1k4L3RKRGdRNVJYZVRvL2VrNy9CeG1ZMmoxeGwraTk3aHdWK1RhTzJDZy9kOXQrYjFoVnZjd2lWZFh6OGVha0ZBazkrNVRwK3RqNDNGMmkxbmNLWC9jMVZueUYwREZ5M1JtS2VuYnYveWVLRHZqRjRWUTlsQzB2QnhSSkI4VmdOYmR1T2xicWdnMUUzOVpZS2ZRTXhXVExBSWRObnpZSFplVk1HMmE0VG1iYjB3eWdJeTVpN1FYeGpkUFlIZHU2d1hDZU5RRVVmSitxcjJ5V0xUT08xVHU3V2NhTzFxUkNDUVRNclhUdnhEM3lCMnJBVXh6Sm41VjI2M3VtMHB0MThNWHlSZGNBb3ZnS2NYb1kwczV3OXVLMnFQMlRpR3BYK29NN0lyWlJ2NlhLTXdNd3ZqZTMva2kzRVFoNEFCUWNOS3VOK1JuZmZRdjZObnQ1WHdvY2F6U0poaTRRZG13VzRGdmcvZDV4UWI5NXVUZUFzSlpQbmhuZVpCY1ZRcm9vZzE0ZUdnPT0iLCJpdiI6ImQwOGIwZGVmOTU2YWY4ODA2YjY1YWYyYTc1YTY3MDgyIiwicyI6IjcwZDMwYWYwYmNiZTJhNTYifQ"
+        }
+    ],
+    "subtitlesAutoTrans": [
+        {
+            "name": "English",
+            "code": "en",
+            "url": "eyJjdCI6IlZjL3Y0dG03eWFlTXJORFBEK2lMWHMwRjZScldlM3BqNEk4MHJ1VTEwMkRoUmZkTXdYY0NnL3NxVXZvdng5d2F2dXlseFA5ZDJ4Wi90b0taeXJTVmpUc3B6L04welJoUVNBTllhbjBXdG5kdStYWndXZytxeFZrMkE2TGkzNXVnNzFGejFReGY5aDRFRlRCeGV4UEViaTlBMkFjVWJ1TW04cDBYMGh2S2ZaZytPcmxXbEN1bVdENm5kMW4yZGhmNUNYOWxuR0VzQlNVMGh1S25YanhWVVBOVi9oMU0yOFY2NE1lc3pPZ08vZHlBZzlZbmNpT0lWdm53M1VHR2c5OTV5bkwxVm9zbCtDRCtGRllaTVBpOHpITldDT1FNNHZWMWkwSS9tdExHK0FjS0RmT3BFc0ZxdCtZRU90MkhudTRCN1NCSkVtLzFXSHhzaG1tY25jMFdQUy9mRTJLeXNTRE9ITGo2emhsSVU5RVB0bUhyKy9kYTI2N2tFT3dUMnRUSlpqRWkvSXBFdEJpYWFybGhrbWJKK2dJYVljQ0JqVGpjbkwyZ3Erdm9BbUNFSVgwdkdBRFhWMCszY2NsMGFhZWtETEtjaXVzdDMxMEh6b3lxa29QQzZEd1hpT0wxWDJsM1psNW44U3QxWEdBPSIsIml2IjoiYWYzMjNkYzdlNDUzNTkzMDgyZjBmNDMxNjM4ZjBiZWMiLCJzIjoiYzdkMDlhMTYzMzMzYjllMSJ9"
+        }
+    ],
+    "playlist": [],
+    "source": "Youtube",
+    "playlistId": null,
+    "urlSubtitle": "https://subtitle2.downsub.com/"
+}

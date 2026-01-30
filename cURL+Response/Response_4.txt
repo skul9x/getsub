@@ -1,0 +1,40 @@
+{
+  "sites": [
+    {
+      "name": "VK",
+      "icon": "vk.ico",
+      "path": "/vk",
+      "status": "fix",
+      "text": "fix",
+      "msg": "",
+      "color": "error"
+    },
+    {
+      "name": "Ondemandchina",
+      "icon": "ondemandchina.ico",
+      "path": "/ondemandchina",
+      "status": "add",
+      "text": "support",
+      "msg": "",
+      "color": "primary"
+    },
+    {
+      "name": "MGTV",
+      "icon": "mgtv.ico",
+      "path": "/MGTV",
+      "status": "add",
+      "text": "support",
+      "msg": "",
+      "color": "primary"
+    },
+    {
+      "name": "Erosnow",
+      "icon": "erosnow.png",
+      "path": "/erosnow",
+      "status": "add",
+      "text": "support",
+      "msg": "",
+      "color": "primary"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+curl 'https://download.subtitle.to/?title=%5BVietnamese%20(auto-generated)%5D%20PHU%20NH%C3%82N%20C%E1%BB%B0U%20T%E1%BB%94NG%20TH%E1%BB%90NG%20H%C3%80N%20QU%E1%BB%90C%20NH%E1%BA%ACP%20KHO%20V%C3%8C%20THAM%20NH%C5%A8NG%20%7C%20BAO%20GI%E1%BB%9C%20TH%C3%8C%20%C4%90%E1%BA%BEN%20V%E1%BB%A2%20ZELENSKY%3F%20%5BDownSub.com%5D&url=eyJjdCI6ImJCQ3Z0dS9HVWxXckYrWlVBZW9kcVFBYjQ2L2lYd2YwS1ZoeXFWcDBCclV3Q2MrNW83VGg0ZzhmTU1LNTVvZmZCWVpuVXBMNllrSm40Vmd5Y1k4L3RKRGdRNVJYZVRvL2VrNy9CeG1ZMmoxeGwraTk3aHdWK1RhTzJDZy9kOXQrYjFoVnZjd2lWZFh6OGVha0ZBazkrNVRwK3RqNDNGMmkxbmNLWC9jMVZueUYwREZ5M1JtS2VuYnYveWVLRHZqRjRWUTlsQzB2QnhSSkI4VmdOYmR1T2xicWdnMUUzOVpZS2ZRTXhXVExBSWRObnpZSFplVk1HMmE0VG1iYjB3eWdJeTVpN1FYeGpkUFlIZHU2d1hDZU5RRVVmSitxcjJ5V0xUT08xVHU3V2NhTzFxUkNDUVRNclhUdnhEM3lCMnJBVXh6Sm41VjI2M3VtMHB0MThNWHlSZGNBb3ZnS2NYb1kwczV3OXVLMnFQMlRpR3BYK29NN0lyWlJ2NlhLTXdNd3ZqZTMva2kzRVFoNEFCUWNOS3VOK1JuZmZRdjZObnQ1WHdvY2F6U0poaTRRZG13VzRGdmcvZDV4UWI5NXVUZUFzSlpQbmhuZVpCY1ZRcm9vZzE0ZUdnPT0iLCJpdiI6ImQwOGIwZGVmOTU2YWY4ODA2YjY1YWYyYTc1YTY3MDgyIiwicyI6IjcwZDMwYWYwYmNiZTJhNTYifQ&type=raw' \
+  -H 'accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7' \
+  -H 'accept-language: vi,en;q=0.9,en-US;q=0.8,da;q=0.7' \
+  -H 'priority: u=0, i' \
+  -H 'referer: https://downsub.com/' \
+  -H 'sec-ch-ua: "Not(A:Brand";v="8", "Chromium";v="144", "Microsoft Edge";v="144"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "Windows"' \
+  -H 'sec-fetch-dest: document' \
+  -H 'sec-fetch-mode: navigate' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-user: ?1' \
+  -H 'upgrade-insecure-requests: 1' \
+  -H 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0'
