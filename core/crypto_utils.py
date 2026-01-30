@@ -34,17 +34,11 @@ class CryptoUtils:
             password = CryptoUtils.DEFAULT_KEY
 
         # 1. Prepare Data
-        # If it's a dict/list, JSON dump it. If string, use as is? 
         # API expects JSON.stringify(t) as input to encrypt.
-        # So if input is a raw URL string, we treat it as the string to encrypt.
-        # But if the original call was JSON.stringify({url: ...}), then we encrypt that JSON.
-        # Based on cURL 1 URL param, the input is likely just the string "https://youtu.be..." 
-        # or JSON check later.
+        # JSON.stringify("abc") -> "abc" (with quotes)
+        # JSON.stringify({"a": 1}) -> {"a":1}
         
-        if not isinstance(data_obj, str):
-            plaintext = json.dumps(data_obj, separators=(',', ':'))
-        else:
-            plaintext = data_obj
+        plaintext = json.dumps(data_obj, separators=(',', ':'))
 
         # 2. Generate Salt
         salt = get_random_bytes(8)
